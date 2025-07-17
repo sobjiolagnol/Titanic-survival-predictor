@@ -1,13 +1,13 @@
 ---
 
-# 🚢 Prédicteur de Survie du Titanic
+#  Prédicteur de Survie du Titanic
 
 Une application Streamlit présentant une étude de cas complète en Machine Learning.
 Objectif : prédire la probabilité de survie de chaque passager du Titanic en fonction de caractéristiques telles que l’âge, le sexe, la classe et les membres de la famille à bord.
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 racine
