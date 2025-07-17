@@ -1,13 +1,9 @@
-Voici la version française du document demandé :
-
 ---
 
 # 🚢 Prédicteur de Survie du Titanic
 
 Une application Streamlit présentant une étude de cas complète en Machine Learning.
 Objectif : prédire la probabilité de survie de chaque passager du Titanic en fonction de caractéristiques telles que l’âge, le sexe, la classe et les membres de la famille à bord.
-
-🔗 **Démo en ligne disponible ici :** [didstitanic.streamlit.app](https://didstitanic.streamlit.app/)
 
 ---
 
@@ -22,7 +18,7 @@ racine
 └── README.md         # Ce fichier
 ```
 
-## 🚀 Démarrage rapide
+##  Démarrage rapide
 
 ### 1. Cloner le dépôt
 
@@ -87,34 +83,18 @@ ou
 streamlit run streamlit_app.py
 ```
 
-## 🔍 Fonctionnalités
+##  Fonctionnalités
 
 * Visualisations
 * Entraînement et évaluation des modèles
 * Optimisation
 * Prédiction individuelle de la survie
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 
 * Python
 * Streamlit
 * Scikit-learn
 * Pandas / NumPy
 * Plotly Express
-
-## 📊 Exemple
-
-Prédire la survie d’une femme de 28 ans en première classe sans famille à bord.
-
-## 🙌 Remerciements
-
-Inspiré par le célèbre défi de classification de survie du Titanic sur [Kaggle](https://www.kaggle.com/competitions/titanic/overview).
-
-## ℹ️ À propos
-
-Auteur : Lagnol SOBJIO
-✉️ [lagnolsobjio@yahoo.fr](mailto:lagnolsobjio@yahoo.fr)
-🔗 [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio)
-Date : Juin 2025
-
 ---
