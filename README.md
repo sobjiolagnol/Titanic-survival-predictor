@@ -68,9 +68,6 @@ Pour utiliser l’API Google Cloud Translation, vous devez configurer une clé d
    client_x509_cert_url = "https://www.googleapis.com/robot/v1/metadata/x509/email-de-votre-compte-service"
    ```
 
-**Remarque :** Le niveau gratuit de l’API Google Cloud Translation permet jusqu’à **500 000 caractères** traduits par mois.
-Voir [Tarification Google Cloud Translation](https://cloud.google.com/translate/pricing) pour plus de détails.
-
 ### 4. Lancer l'application Streamlit
 
 Vous pouvez lancer l'application soit avec `main.py`, soit avec Streamlit directement :
